@@ -10,13 +10,13 @@
   <HighResolutionIconUrl DefaultValue=""/>
   <SupportUrl DefaultValue=""/>
   <AppDomains>
-    <AppDomain>https://github.com/PsySkip/MOP_Restock</AppDomain>
+    <AppDomain>https:"//github.com/PsySkip/MOP_Restock"</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Workbook"/>
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue=https://github.com/PsySkip/MOP_Restock/blob/main/home.html/>
+    <SourceLocation DefaultValue="https://github.com/PsySkip/MOP_Restock/blob/main/home.html/">
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
 </OfficeApp>
