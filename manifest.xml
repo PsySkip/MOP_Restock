@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="TaskPaneApp">
-  <Id>your-app-id</Id>
+  <Id>MOP_Restock</Id>
   <Version>1.0.0.0</Version>
   <ProviderName>PsySkip</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="Graph Visibility Controller"/>
+  <DisplayName DefaultValue="MOP_Restock"/>
   <Description DefaultValue="Add-in to control the visibility of graphs and charts in Excel."/>
-  <IconUrl DefaultValue="https://your-add-in-url/icon.png"/>
-  <HighResolutionIconUrl DefaultValue="https://your-add-in-url/hi-res-icon.png"/>
-  <SupportUrl DefaultValue="https://your-support-url"/>
+  <IconUrl DefaultValue=""/>
+  <HighResolutionIconUrl DefaultValue=""/>
+  <SupportUrl DefaultValue=""/>
   <AppDomains>
     <AppDomain>https://github.com/PsySkip/MOP_Restock</AppDomain>
   </AppDomains>
