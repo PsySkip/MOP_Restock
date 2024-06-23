@@ -16,7 +16,7 @@
     <Host Name="Workbook"/>
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://github.com/PsySkip/MOP_Restock/blob/main/home.html/">
+    <SourceLocation DefaultValue="https://raw.githubusercontent.com/PsySkip/MOP_Restock/main/home.html/">
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
 </OfficeApp>
